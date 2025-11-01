@@ -1,0 +1,1 @@
+# weighted-string-is-a-string This C# program calculates the **weights of all possible uniform substrings** (consecutive identical letters) in a string and checks if given query values match any of these weights. For each query, it outputs **"Yes"** if the weight exists and **"No"** otherwise.
